@@ -10,14 +10,6 @@
 - 🌐 Portfolio: [Notion 포트폴리오 링크](https://star-girdle-900.notion.site/Back-End-Developer-Portfolio-393e62dfde314bf4b3a2c429b15aeab7?pvs=4)
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumsan38&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumsan38&layout=compact" height="150"/>
-</p>
-
----
 
 ### 👨‍💻 About Me
 
@@ -28,6 +20,17 @@
 - 클린 코드, 테스트 기반 개발을 꾸준히 실천하고 있습니다.
 
 ---
+
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumsan38&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumsan38&layout=compact" height="150"/>
+</p>
+
+---
+
 
 ### 🛠 Tech Stack
 
@@ -45,34 +48,34 @@
 
 ### 🧩 Project Highlights
 
-#### 🏢 셀바스에이아이 (여행 플랫폼)
+#### 🏢 셀바스에이아이 (여행 플랫폼, 2022.06 ~ 재직 중)
+<P>PL, Backend 개발자</P>
 
 - **크루즈 여행 플랫폼**
   - 관리자, B2B, B2C 사이트 포함한 REST API 백엔드 전반 구현
-    -	예약 플로우 제공 (상품 조회 → 일정 선택 → 객실 선택 → 탑승자 입력 → 결제) 전체 프로세스를 API로 구현
   - 프로젝트 DB 설계 및 구현
   - PL로 참여해 요구사항 분석, 기능 명세서, 일정 관리 및 QA 주도
   - 다양한 크루즈 선사 API 연동
-    - 각 선사별 요청 포맷/인증/응답 구조 상이 → 전략 패턴 기반 추상화 구조 설계로 확장성과 유지보수성 확보
-    -	선사 API를 통해 항해, 일정, 요금, 프로모션, 이미지 등 다양한 항목을 수집하여 플랫폼 내부 구조로 정제
 
 - **단품 티켓 API 연동**
   - JTR, 뮤즈먼트 API 연동으로 티켓 예약/결제/취소 자동화
   - 외부 응답 포맷과 자사 구조 불일치 해결 → DB/DTO 구조 개선
-  - -	외부 API 별 기능 통합을 위한 전략 패턴 도입 검토 및 적용
+    외부 API 별 기능 통합을 위한 전략 패턴 도입 검토 및 적용
 
 - **카카오 알림톡 서버 구축**
   - 예약/취소 시 자동 알림톡 전송
   - B2B 리셀러별 템플릿 관리 기능 구현
   - 전략 패턴 기반 메시지 처리 + 이벤트 비동기 전송 구조 설계
 
-#### 🏢 소올아이티 (CRM 시스템)
+#### 🏢 소올아이티 (CRM 시스템, 2021.05 ~ 2022.0)
+<P>Backend 개발자</P>
 
 - 롯데 계열 CRM 시스템 유지보수 및 신규 기능 개발
 - 다양한 도메인과 비즈니스 로직에 대한 빠른 구조 파악 능력 습득
 - 사용자 요청 및 기획 부서와의 협업을 통한 시스템 개선 경험
 
-#### 🏢 젤릭스 (임베디드 시스템)
+#### 🏢 젤릭스 (임베디드 시스템,  2017.07 ~ 2021.04)
+<P>Java 개발자</P>
 
 - 타사 디바이스와 통신하여 주기적으로 데이터 수집 및 제어
 - 제약 있는 하드웨어 환경에서도 안정적 전송 가능한 구조 설계
